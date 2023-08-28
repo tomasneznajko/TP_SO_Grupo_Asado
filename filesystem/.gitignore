@@ -1,0 +1,8 @@
+/Debug/
+/debug/
+*.vscode
+*.log
+*.settings
+/fcb/
+bitmap.dat
+bloques.dat
