@@ -5,5 +5,6 @@
 - Alan Lionel Figueredo Aguiar
 - Ian Santiago Ruiz Depetris
 - MarÍa Isabella Innocente
-- Tomas Valentin Delgado Andrade
 - Tomas Esteban Neznajko
+- Tomas Valentin Delgado Andrade
+
